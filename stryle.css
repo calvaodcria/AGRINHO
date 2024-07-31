@@ -6,11 +6,8 @@
 }
  
 .corpo{
-    background-color: aqua;
-    opacity: 20%;
+    background-color: rgba(84, 80, 73, 1)
+    
 }
 
 
-.letra{
-    opacity: 2000px
-}
